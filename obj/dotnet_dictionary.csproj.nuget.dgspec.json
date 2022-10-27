@@ -38,9 +38,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.Extensions.Hosting": {
+            "Bogus": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[34.0.2, )"
             }
           },
           "imports": [
