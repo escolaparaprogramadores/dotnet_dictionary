@@ -1,0 +1,17 @@
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/bin/Debug/net6.0/dotnet_dictionary
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/bin/Debug/net6.0/dotnet_dictionary.deps.json
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/bin/Debug/net6.0/dotnet_dictionary.runtimeconfig.json
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/bin/Debug/net6.0/dotnet_dictionary.dll
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/bin/Debug/net6.0/dotnet_dictionary.pdb
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.csproj.AssemblyReference.cache
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.AssemblyInfoInputs.cache
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.AssemblyInfo.cs
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.csproj.CoreCompileInputs.cache
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.dll
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/refint/dotnet_dictionary.dll
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.pdb
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.genruntimeconfig.cache
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/ref/dotnet_dictionary.dll
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/bin/Debug/net6.0/Bogus.dll
+/Users/markroger/Azure_DevOps/Itau/dotnet_dictionary/obj/Debug/net6.0/dotnet_dictionary.csproj.CopyComplete
